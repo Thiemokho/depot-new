@@ -1,0 +1,88 @@
+# Translation of Themes - Heroic in French (France)
+# This file is distributed under the same license as the Themes - Heroic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-22 22:52:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Heroic\n"
+
+#. Theme Name of the plugin/theme
+msgid "Heroic"
+msgstr "Heroic"
+
+#. Description of the plugin/theme
+msgid "Heroic is a responsive, multi-purpose WordPress theme. It’s flexible and suitable for agencies, blogs, businesses, finance, accounting, consulting, corporations, or portfolios. Customization is easy and straight-forward, with options provided that allow you to setup your site to perfectly fit your desired online presence. For more details, visit this link https://wordpress.org/themes/quality/. We hope you will find the Heroic theme useful."
+msgstr "Heroic est un thème WordPress réactif et polyvalent. Il est flexible et adapté pour les agences, les blogs, les entreprises, les corporations ou les portfolios. La personnalisation est facile et directe, avec des options fournies qui vous permettent de configurer votre site pour s’adapter parfaitement à la présence en ligne que vous désirez. Pour plus de détails, visitez ce lien https://wordpress.org/themes/quality/. Nous espérons que vous trouverez le thème Heroic utile."
+
+#: 404.php:10
+msgid "4"
+msgstr "4"
+
+#: 404.php:11
+msgid "Oops! Page not found"
+msgstr "Aïe ! Page non trouvée"
+
+#: 404.php:12
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Nous sommes désolés, mais la page que vous recherchez n’existe pas."
+
+#: 404.php:14
+msgid "Back to Homepage"
+msgstr "Retour à la page d’accueil"
+
+#: content.php:30 functions.php:75
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: content.php:44 single.php:51
+msgid "No Comments"
+msgstr "Aucun commentaire"
+
+#: content.php:44 single.php:51
+msgid "One comment"
+msgstr "Un commentaire"
+
+#: content.php:44 single.php:51
+msgid "% comments"
+msgstr "% commentaires"
+
+#: content.php:47 single.php:54
+msgid "In"
+msgstr "Dans"
+
+#: functions.php:22
+msgid "Banner setting"
+msgstr "Réglages de la bannière"
+
+#: functions.php:34
+msgid "Remove banner image from all pages"
+msgstr "Supprimer l’image de bannière de toutes les pages"
+
+#: search.php:16
+msgid "Nothing Found"
+msgstr "Rien n’a été trouvé"
+
+#: search.php:17
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#. Template Name of the plugin/theme
+msgid "Full-width page"
+msgstr "Page en pleine largeur"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/heroic-wordpress-theme/"
+msgstr "https://webriti.com/heroic-wordpress-theme/"
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Author URI of the plugin/theme
+msgid "https://webriti.com"
+msgstr "https://webriti.com"
